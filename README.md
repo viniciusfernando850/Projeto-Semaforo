@@ -38,13 +38,13 @@
 ---
 ## Montagem e Funcionamento
 <p align="center">
-  <img src="images/Panoramica.png" alt="Montagem do Circuito"  width="700" height="400">
+  <img src="images/panoramica.jpg" alt="Montagem do Circuito"  width="800" height="400">
 </p>
 
 <br>
 
 🎥 **Vídeo do Funcionamento:**  
-👉 [Acesse clicando aqui!](Link)
+👉 [Acesse clicando aqui!](https://youtu.be/SsBZyAJXiDw)
 
 ---
 ## Código do Projeto
