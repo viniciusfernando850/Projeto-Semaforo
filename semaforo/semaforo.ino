@@ -1,7 +1,3 @@
-/***********************************
-        Projeto 1 - Semáforo
-************************************/
-
 // Pinos referentes aos LEDs do semáforo para carros
 const int VERMELHO = 4;
 const int AMARELO = 5;
