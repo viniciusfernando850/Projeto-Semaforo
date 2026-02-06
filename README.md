@@ -49,4 +49,4 @@
 ---
 ## Código do Projeto
 Quer ver como esse projeto foi programado?  
-👉 [Acesse o código clicando aqui!](src/Semaforo.ino)
+👉 [Acesse o código clicando aqui!](semaforo/semaforo.ino)
